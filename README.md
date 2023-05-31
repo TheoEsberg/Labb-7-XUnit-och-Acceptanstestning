@@ -1,5 +1,8 @@
 # Labb-7-XUnit-och-Acceptanstestning
 
+## Common mistakes
+Remember if you want to write an decimal as an input a decimal is divided by a "," and not by a "." :)
+
 ## Acceptance Testing for Addition 
 1. First of all you need to open the application
 2. You will now be presented with a small starting menu
