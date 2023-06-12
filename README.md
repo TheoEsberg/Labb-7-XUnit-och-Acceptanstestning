@@ -50,3 +50,8 @@ Remember if you want to write an decimal as an input a decimal is divided by a "
 8. When you are done with the second number or decimal press enter to move to the next step
 9. You will now be presented with the Sum of the Division
 10. Press enter to go back to the start menu 
+
+# Test Results
+These are the XUnit test results for my Console Application.
+![Image](https://cdn.discordapp.com/attachments/371248402920374273/1117808159478784050/image.png)
+
