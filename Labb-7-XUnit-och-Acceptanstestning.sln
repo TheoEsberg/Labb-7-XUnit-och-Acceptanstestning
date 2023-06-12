@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb-7-XUnit-och-Acceptanstestning", "Labb-7-XUnit-och-Acceptanstestning.csproj", "{AF044E32-2C30-4287-95FA-2929730CEE6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb-7-XUnit-och-Acceptanstestning-XUNIT-TEST", "Labb-7-XUnit-och-Acceptanstestning-XUNIT-TEST\Labb-7-XUnit-och-Acceptanstestning-XUNIT-TEST.csproj", "{C874604F-908F-4D74-AA8B-6C4932832CD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AF044E32-2C30-4287-95FA-2929730CEE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF044E32-2C30-4287-95FA-2929730CEE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF044E32-2C30-4287-95FA-2929730CEE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C874604F-908F-4D74-AA8B-6C4932832CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C874604F-908F-4D74-AA8B-6C4932832CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C874604F-908F-4D74-AA8B-6C4932832CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C874604F-908F-4D74-AA8B-6C4932832CD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
